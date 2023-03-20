@@ -1,5 +1,6 @@
 .sidebar{
-    background-color: aqua;
+    padding: 10px;
+    background-color: rgb(137, 188, 211);
     width: var(--sidebar-width);
     height:calc(100vh - var(--toolbar-height));
     position: fixed;

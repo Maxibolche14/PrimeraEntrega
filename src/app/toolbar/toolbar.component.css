@@ -6,8 +6,8 @@
     display: flex;
     align-items: center;
     background-color: #1976d2;
-    color: white;
-    font-weight: 600;
+    color: rgb(139, 32, 5);
+    font-weight: 10000;
   }
 
   .toolbar img {
